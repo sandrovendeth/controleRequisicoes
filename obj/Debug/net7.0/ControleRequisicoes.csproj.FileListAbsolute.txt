@@ -1,0 +1,15 @@
+F:\Unip\POO\ControleRequisicoes\bin\Debug\net7.0\ControleRequisicoes.exe
+F:\Unip\POO\ControleRequisicoes\bin\Debug\net7.0\ControleRequisicoes.deps.json
+F:\Unip\POO\ControleRequisicoes\bin\Debug\net7.0\ControleRequisicoes.runtimeconfig.json
+F:\Unip\POO\ControleRequisicoes\bin\Debug\net7.0\ControleRequisicoes.dll
+F:\Unip\POO\ControleRequisicoes\bin\Debug\net7.0\ControleRequisicoes.pdb
+F:\Unip\POO\ControleRequisicoes\obj\Debug\net7.0\ControleRequisicoes.csproj.AssemblyReference.cache
+F:\Unip\POO\ControleRequisicoes\obj\Debug\net7.0\ControleRequisicoes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unip\POO\ControleRequisicoes\obj\Debug\net7.0\ControleRequisicoes.AssemblyInfoInputs.cache
+F:\Unip\POO\ControleRequisicoes\obj\Debug\net7.0\ControleRequisicoes.AssemblyInfo.cs
+F:\Unip\POO\ControleRequisicoes\obj\Debug\net7.0\ControleRequisicoes.csproj.CoreCompileInputs.cache
+F:\Unip\POO\ControleRequisicoes\obj\Debug\net7.0\ControleRequisicoes.dll
+F:\Unip\POO\ControleRequisicoes\obj\Debug\net7.0\refint\ControleRequisicoes.dll
+F:\Unip\POO\ControleRequisicoes\obj\Debug\net7.0\ControleRequisicoes.pdb
+F:\Unip\POO\ControleRequisicoes\obj\Debug\net7.0\ControleRequisicoes.genruntimeconfig.cache
+F:\Unip\POO\ControleRequisicoes\obj\Debug\net7.0\ref\ControleRequisicoes.dll
